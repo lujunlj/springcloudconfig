@@ -1,6 +1,6 @@
 lujun:
   name: lujun
-  age: 27
+  age: 28
 ##设置feign客户端超时时间
 ##SpringCloud feign 默认开启支持ribbon
 ribbon:
